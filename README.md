@@ -52,3 +52,10 @@ drop an image in → hide a message → it just looks like a normal picture
 but it’s not.
 
 ---
+
+## community
+
+well theres uhhh
+[my site](arby.lol)
+or
+[discord](discord.gg/KAvCTVaQFp)
