@@ -42,17 +42,6 @@ install requirements
 run main.py
 ```
 
-that’s it.
-
----
-
-## how it feels
-
-drop an image in → hide a message → it just looks like a normal picture
-but it’s not.
-
----
-
 ## community
 
 well theres uhhh
