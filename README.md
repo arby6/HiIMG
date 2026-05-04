@@ -56,6 +56,6 @@ but it’s not.
 ## community
 
 well theres uhhh
-[my site](arby.lol)
+[my site](https://arby.lol)
 or
-[discord](discord.gg/KAvCTVaQFp)
+[discord](https://discord.gg/KAvCTVaQFp)
